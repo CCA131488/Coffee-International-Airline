@@ -435,6 +435,38 @@
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KFskynoneengineslivery.png"
                        ],
                        "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (none nose cone livery)",
+                      "texture": [
+                            "/models/aircraft/premium/a350/specular.jpg",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KFnonenose.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (A350 special livery)",
+                      "texture": [
+                            "/models/aircraft/premium/a350/specular.jpg",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KFa350speciallivery.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (Love China livery)",
+                      "texture": [
+                            "/models/aircraft/premium/a350/specular.jpg",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KFlovechina.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (Slogan livery)",
+                      "texture": [
+                            "/models/aircraft/premium/a350/specular.jpg",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KFsloganlivery.png"
+                       ],
+                       "credits": "KF2447"
                   }
             ],
             "labels": [
