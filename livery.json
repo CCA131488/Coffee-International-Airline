@@ -416,7 +416,7 @@
                       "name": "Coffee International Airline",
                       "texture": [
                             "/models/aircraft/premium/a350/specular.jpg",
-                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/KF.png"
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KF.png"
                        ],
                        "credits": "KF2447"
                   },
@@ -424,7 +424,7 @@
                       "name": "Coffee International Airline (Stellar Sky Alliance livery)",
                       "texture": [
                             "/models/aircraft/premium/a350/specular.jpg",
-                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/KFsky.png"
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KFsky.png"
                        ],
                        "credits": "KF2447"
                   },
@@ -432,7 +432,7 @@
                       "name": "Coffee International Airline (Stellar Sky Alliance livery - none engines livery)",
                       "texture": [
                             "/models/aircraft/premium/a350/specular.jpg",
-                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/KFskynoneengineslivery.png"
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KFskynoneengineslivery.png"
                        ],
                        "credits": "KF2447"
                   }
