@@ -903,6 +903,20 @@
         "5405": {
             "name": "Chengdu J-20",
             "liveries": [
+                 {
+                      "name": "Coffee International Airline Air show (white design)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/j20/KFwhite.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline Air show (grey design)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/j20/KFgrey.png"
+                       ],
+                       "credits": "KF2447"
+                  }
             ],
             "labels": [
                 "Texture"
