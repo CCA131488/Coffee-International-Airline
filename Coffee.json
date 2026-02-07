@@ -692,7 +692,7 @@
             "name": "Boeing b747-8I",
             "liveries": [
                  {
-                      "name": "Coffee International Airline",
+                      "name": "Coffee International Airline (new design)",
                       "texture": [
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Boeing_b747-8i/KF.png",
                             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-8i/wing/original.png"
@@ -1045,6 +1045,41 @@
         "5551": {
             "name": "Comac C919",
             "liveries": [
+                 {
+                      "name": "Coffee International Airline",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Comac_c919/KF.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (C919 special livery)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Comac_c919/KF919special.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (Love China livery)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Comac_c919/KFlovechina.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (Survive for People livery)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Comac_c919/B-102B.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (Stellar Sky Alliance livery)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Comac_c919/KFsky.png"
+                       ],
+                       "credits": "KF2447"
+                  }
             ],
             "labels": [
                 "Texture"
@@ -1054,7 +1089,7 @@
             "name": "Boeing b747-400",
             "liveries": [
                  {
-                      "name": "Coffee International Airline",
+                      "name": "Coffee International Airline (new design)",
                       "texture": [
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Boeing_b747-400/KF.png",
                             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
@@ -1065,6 +1100,14 @@
                       "name": "Coffee International Airline (old design)",
                       "texture": [
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Boeing_b747-400/KFold.png",
+                            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (747-400 special livery)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Boeing_b747-400/KFspecial.png",
                             "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b747-400/wing/original.png"
                        ],
                        "credits": "KF2447"
