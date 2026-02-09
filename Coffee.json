@@ -316,6 +316,27 @@
         "3575": {
             "name": "Boeing b787-9",
             "liveries": [
+                 {
+                      "name": "Coffee International Airline",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Boeing_b787-9/KF.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (Boeing livery)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Boeing_b787-9/KFboeinglivery.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (blue design)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Boeing_b787-9/KFblue.png"
+                       ],
+                       "credits": "KF2447"
+                  }
             ],
             "labels": [
                 "Texture"
@@ -476,7 +497,7 @@
                        "credits": "KF2447"
                   },
                   {
-                      "name": "Coffee international Airline (wealth livery)",
+                      "name": "Coffee International Airline (wealth livery)",
                       "texture": [
                             "/models/aircraft/premium/a350/specular.jpg",
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KF_Wealth.png"
