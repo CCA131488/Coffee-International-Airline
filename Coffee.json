@@ -1136,6 +1136,13 @@
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Comac_c919/KFV1.png"
                        ],
                        "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (Nonsensical - Black nose)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Comac_c919/KFblacknose.png"
+                       ],
+                       "credits": "KF2447"
                   }
             ],
             "labels": [
