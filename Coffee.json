@@ -476,6 +476,14 @@
                        "credits": "KF2447"
                   },
                   {
+                      "name": "Coffee international Airline (wealth livery)",
+                      "texture": [
+                            "/models/aircraft/premium/a350/specular.jpg",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KF_Wealth.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
                       "name": "Coffee International Airline (Stellar Sky Alliance livery)",
                       "texture": [
                             "/models/aircraft/premium/a350/specular.jpg",
@@ -1031,7 +1039,14 @@
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Boeing_b747-8f/KFcargo.png"
                        ],
                        "credits": "KF2447"
-                  } 
+                  },
+                  {
+                      "name": "Coffee international Airline (bring out bads livery)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Boeing_b747-8f/KF bring out bads.png"
+                       ],
+                       "credits": "KF2447"
+                  }
             ],
             "labels": [
                 "Texture"
@@ -1098,6 +1113,27 @@
                       "name": "Coffee International Airline (Stellar Sky Alliance livery)",
                       "texture": [
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Comac_c919/KFsky.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (Nonsensical - Green design)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Comac_c919/KFV3.png"
+                       ],
+                       "credits": "KF2447"
+                  }, 
+                  {
+                      "name": "Coffee International Airline (Nonsensical - AD Calcium)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Comac_c919/KFV2.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (Nonsensical - Rabbit)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Comac_c919/KFV1.png"
                        ],
                        "credits": "KF2447"
                   }
