@@ -513,7 +513,7 @@
                        "credits": "KF2447"
                   },
                   {
-                      "name": "Coffee International Airline (Stellar Sky Alliance livery - none engines livery)",
+                      "name": "Coffee International Airline (Stellar Sky Alliance livery - White engines livery)",
                       "texture": [
                             "/models/aircraft/premium/a350/specular.jpg",
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KFskynoneengineslivery.png"
@@ -532,7 +532,7 @@
                       "name": "Coffee International Airline (A350 special livery)",
                       "texture": [
                             "/models/aircraft/premium/a350/specular.jpg",
-                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KFa350speciallivery.png"
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KFa350special.png"
                        ],
                        "credits": "KF2447"
                   },
@@ -542,7 +542,7 @@
                             "/models/aircraft/premium/a350/specular.jpg",
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KFlovechina.png"
                        ],
-                       "credits": "KF2447"
+                       "credits": "KF2447＆CP8888"
                   },
                   {
                       "name": "Coffee International Airline (Slogan livery)",
@@ -1055,7 +1055,7 @@
             "name": "Embraer ERJ 190",
             "liveries": [
                  {
-                      "name": "Coffee international Airline",
+                      "name": "Coffee International Airline",
                       "texture": [
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Embraer_e190/KF.png",
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Embraer_e190/KF.png",
@@ -1079,7 +1079,7 @@
                        "credits": "KF2447"
                   },
                   {
-                      "name": "Coffee international Airline (bring out bads livery)",
+                      "name": "Coffee International Airline (bring out bads livery)",
                       "texture": [
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Boeing_b747-8f/KF bring out bads.png"
                        ],
@@ -1230,3 +1230,4 @@
     }
 
 }
+
