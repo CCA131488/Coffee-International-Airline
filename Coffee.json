@@ -532,7 +532,7 @@
                       "name": "Coffee International Airline (A350 special livery)",
                       "texture": [
                             "/models/aircraft/premium/a350/specular.jpg",
-                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KFa350speciallivery.png"
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KFa350special.png"
                        ],
                        "credits": "KF2447"
                   },
@@ -1230,3 +1230,4 @@
     }
 
 }
+
