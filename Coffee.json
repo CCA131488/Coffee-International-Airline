@@ -1054,6 +1054,15 @@
         "1018": {
             "name": "Embraer ERJ 190",
             "liveries": [
+                 {
+                      "name": "Coffee international Airline",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Embraer_e190/KF.png",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Embraer_e190/KF.png",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Embraer_e190/KF.png"
+                       ],
+                       "credits": "KF2447"
+                  }
             ],
             "labels": [
                 "Texture"
