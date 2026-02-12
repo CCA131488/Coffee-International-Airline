@@ -551,6 +551,14 @@
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KFsloganlivery.png"
                        ],
                        "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (Flagship livery)",
+                      "texture": [
+                            "/models/aircraft/premium/a350/specular.jpg",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a350-900/KFflagship.png"
+                       ],
+                       "credits": "KF2447"
                   }
             ],
             "labels": [
