@@ -681,6 +681,20 @@
         "2951": {
             "name": "Airbus a340-300",
             "liveries": [
+                 {
+                      "name": "Coffee International Airline",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a340-300/KF.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                 {
+                      "name": "Coffee International Airline B-198B",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/il-96-300/KF.png"
+                       ],
+                       "credits": "KF2447"
+                  }
             ],
             "labels": [
                 "Texture"
