@@ -609,6 +609,14 @@
         "25": {
             "name": "Boeing b777-300ER",
             "liveries": [
+                 {
+                      "name": "Coffee International Airline",
+                      "texture": [
+                            "/models/aircraft/premium/777_300/specular_0.jpg",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Boeing_b777-300er/KF.png"
+                       ],
+                       "credits": "KF2447"
+                  }
             ],
             "labels": [
                 "Specular shader",
