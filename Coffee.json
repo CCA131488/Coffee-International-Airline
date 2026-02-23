@@ -628,6 +628,13 @@
         "7": {
             "name": "General Dynamics F16 Fighting Falcon",
             "liveries": [
+                 {
+                      "name": "Coffee International Airline Air show",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/f16/KF.png"
+                       ],
+                       "credits": "KF2447"
+                  }
             ],
             "labels": [
                 "Texture"
@@ -1210,6 +1217,13 @@
                       "name": "Coffee International Airline",
                       "texture": [
                             "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Comac_c919/KF.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (Flagship livery)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Comac_c919/KFFlagship.png"
                        ],
                        "credits": "KF2447"
                   },
