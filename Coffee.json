@@ -111,6 +111,42 @@
         "10": {
             "name": "Airbus a380-800",
             "liveries": [
+                 {
+                      "name": "Coffee International Airline",
+                      "texture": [
+                            "/models/aircraft/premium/a380/normal.jpg",
+                            "/models/aircraft/premium/a380/specular.jpg",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a380/KF.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                 {
+                      "name": "Coffee International Airline (Stellar Sky Alliance livery)",
+                      "texture": [
+                            "/models/aircraft/premium/a380/normal.jpg",
+                            "/models/aircraft/premium/a380/specular.jpg",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a380/KFsky.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (Alliance slogan livery)",
+                      "texture": [
+                            "/models/aircraft/premium/a380/normal.jpg",
+                            "/models/aircraft/premium/a380/specular.jpg",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a380/B022D.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (A380 special livery)",
+                      "texture": [
+                            "/models/aircraft/premium/a380/normal.jpg",
+                            "/models/aircraft/premium/a380/specular.jpg",
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a380/KF380special.png"
+                       ],
+                       "credits": "KF2447"
+                  }
             ],
             "labels": [
                 "Normal map",
@@ -168,6 +204,13 @@
         "18": {
             "name": "Sukhoi Su-35 Flanker",
             "liveries": [
+                 {
+                      "name": "Coffee International Airline Air show (clay design) - 06",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/su35/06.png"
+                       ],
+                       "credits": "KF2447"
+                  }
             ],
             "labels": [
                 "Texture"
@@ -974,6 +1017,20 @@
         "3011": {
             "name": "Airbus a320-232",
             "liveries": [
+                 {
+                      "name": "Coffee International Airline",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a320-232/KF.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                  {
+                      "name": "Coffee International Airline (Blue tail)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/Airbus_a320-232/KFbluetail.png"
+                       ],
+                       "credits": "KF2447"
+                  }
             ],
             "labels": [
                 "Texture"
