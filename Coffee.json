@@ -343,6 +343,27 @@
         "2418": {
             "name": "ATR 72-600",
             "liveries": [
+                 {
+                      "name": "Coffee International Airline",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/ATR72-600/KF.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                 {
+                      "name": "Coffee International Airline (Blue tail)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/ATR72-600/KFbluetail.png"
+                       ],
+                       "credits": "KF2447"
+                  },
+                 {
+                      "name": "Coffee International Airline (Blue body)",
+                      "texture": [
+                            "https://raw.githubusercontent.com/CCA131488/Coffee-International-Airline/refs/heads/main/liveries/ATR72-600/KFbluebody.png"
+                       ],
+                       "credits": "KF2447"
+                  }
             ],
             "labels": [
                 "Texture"
